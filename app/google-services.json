@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059243614146",
+    "project_id": "chatapp-a1a81",
+    "storage_bucket": "chatapp-a1a81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059243614146:android:b2927d28ced926997c805b",
+        "android_client_info": {
+          "package_name": "com.coutance.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsCk9BrZxkTdZ5gpbakzFWRIJka3zsMkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
